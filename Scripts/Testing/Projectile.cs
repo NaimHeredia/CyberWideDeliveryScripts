@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
+    NOT USED
     Script for the player's projectile
 */
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
+    NOT USED
     Script to instantiate the projectile by the player with a mouse click
 */
 
